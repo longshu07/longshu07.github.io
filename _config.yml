@@ -1,9 +1,9 @@
 # Site settings
 title: longshu 
-SEOTitle: 龙叔的笔记 | My View
+SEOTitle: 龙叔的笔记 | longshu
 header-img: img/post-bg-desk.jpg
 email: jianlongliu07@foxmail.com
-description: "艰苦奋斗才会有生活！"
+description: "艰苦奋斗才会有生活"
 keyword: "note, 记录, longshu, Java"
 url: "http://longshu07.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -24,7 +24,7 @@ RSS: false
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
-csdn_username:   qq_38765867
+#csdn_username:   qq_38765867
 
 
 
