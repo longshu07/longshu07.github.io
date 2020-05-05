@@ -1,4 +1,6 @@
-
+本模板来自简书
+https://www.jianshu.com/p/e68fba58f75c
+的教程，以下的都为该作者的github中的README.md原文。谢谢这个作者提供的模块。
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
